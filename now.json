@@ -1,9 +1,9 @@
 {
-  "name": "next-static-test",
+  "name": "next-static-example",
   "files": ["./out"],
   "static": {
     "public": "./out"
   },
-  "alias": "next-static-test"
+  "alias": "next-static-example"
 }
 
