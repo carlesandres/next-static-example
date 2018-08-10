@@ -1,0 +1,9 @@
+{
+  "name": "next-static-test",
+  "files": ["./out"],
+  "static": {
+    "public": "./out"
+  },
+  "alias": "next-static-test"
+}
+
